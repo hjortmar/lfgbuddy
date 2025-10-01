@@ -1,19 +1,21 @@
 # LFGBuddy
 
-LFGBuddy is a lightweight World of Warcraft addon designed for **Epoch WoW 3.3.5 (Wrath of the Lich King)**. It helps you manage and automate your `/who` queries, whisper queues, and group finding so you can connect with players efficiently.
+LFGBuddy addon is designed to help you find buddies for dungeon groups efficiently.
 
 ## Features
 
-- **Custom /who Queries** – Filter by class, level range, and location.
-- **Queue Whispers** – Automatically send messages to players matching your criteria.
-- **Lock to Who Frame** – Position LFGBuddy next to the Who tab for easy access.
-- **City and PvP Filtering** – Restrict your queue to players in cities or avoid PvP zones.
-- **Spam Lockout** – Avoid repeatedly messaging the same players within a configurable time frame.
-- **Recent Messages** – Keep track of recently sent messages for quick reuse.
-- **Toggle Addon Notifications** – Enable or disable chat messages from LFGBuddy.
-- **Save/Reset Settings** – Persistent configuration between sessions, with buttons to reset defaults or queues.
+- **Easily find players for your dungeons by contacting people with an somewhat automated whisper queue.**
+1. Choose your filter by class and level range.
+2. Click "Refresh" to create the whisper queue.
+3. Click "Whisper who?" to see to who the addon intends to send your message to.
+4. Click "Send" to start whispering everyone in the queue, pause and reset the queue if needed.
 
-- **Main Tab:**  
+- **Whisper queue** – Players in instances, on your ignore list and optionally in pvp zones will not be put into the queue.
+- **Whisper lockouts** - By default, the addon will only send a message to a player once every 10 minutes.
+- **Snaps to Who frame** – LFGBuddy is positioned next to the Who tab for easy access.
+- **Previous messages** – Keep track of recently sent messages for quick reuse.
+
+- **Screenshots:**  
 ![Main](images/lfgbuddy1.png)
 ![Options](images/lfgbuddy2.png)
 ![Whispers](images/lfgbuddy3.png)
@@ -27,41 +29,9 @@ Interface\AddOns\LFGBuddy\LFGBuddy.toc
 Interface\AddOns\LFGBuddy\Main.lua
 4. Launch WoW and enable LFGBuddy on the character selection screen.
 
-## Usage
-
-- **Command:** `/lb show`  
-Opens the LFGBuddy interface. If “Lock to Who” is enabled, it will position itself next to the Who tab.  
-
-- **Options Tab:**  
-- Enable/disable features like city-only queues, PvP zone filtering, spam lockout, and addon notifications.  
-- Reset queues and recent messages.  
-- Adjust spam lockout time with the slider.  
-
-- **Main Tab:**  
-- Choose your class and level range for `/who` queries.  
-- Set and reuse messages to whisper queued players.  
-- Refresh Who results and start/stop sending whispers.
-
-## Configuration
-
-LFGBuddy saves your settings in `LFGBuddyOptions`. Key options include:
-
-| Option                        | Description                                                                 |
-|-------------------------------|-----------------------------------------------------------------------------|
-| `queueCitiesOnly`              | Only include players in default cities.                                     |
-| `togglePvPZones`               | Exclude players in PvP zones from the queue.                                 |
-| `ignoreRecipientLockout`       | Ignore the lockout timer when sending whispers.                              |
-| `spamLockoutMins`              | Time in minutes before a player can be whispered again.                     |
-| `recentMessageRecipients`      | Tracks recent recipients to prevent spam.                                    |
-| `disableAddonNotifications`    | Suppress LFGBuddy messages in chat.                                          |
-| `lockToWho`                    | Lock the frame next to the Who tab.                                          |
-| `showOnWho`                    | Auto-show LFGBuddy when opening the Who tab.                                 |
-
 ## Notes
 
-- LFGBuddy is optimized for **Epoch WoW 3.3.5**; some features may not work in newer versions.  
-- Messages and queues are **local to your character**.  
-- LFGBuddy respects Blizzard’s API and automatically filters players already in your ignore list.
+- LFGBuddy is only tested with a WotLK 3.3.5 (2009) client on **Epoch WoW 3.3.5**.  
 
 ## License
 
