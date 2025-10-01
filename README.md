@@ -1,6 +1,6 @@
 # LFGBuddy
 
-LFGBuddy addon is designed to help you find buddies for dungeon groups efficiently with a somewhat automated whisper queue.
+LFGBuddy addon is designed to help you find buddies for dungeon groups efficiently with an automated whisper queue using /who or a filter.
 
 ## Usage
 
