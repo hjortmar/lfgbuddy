@@ -13,6 +13,11 @@ LFGBuddy is a lightweight World of Warcraft addon designed for **Epoch WoW 3.3.5
 - **Toggle Addon Notifications** – Enable or disable chat messages from LFGBuddy.
 - **Save/Reset Settings** – Persistent configuration between sessions, with buttons to reset defaults or queues.
 
+- **Main Tab:**  
+![Main](images/lfgbuddy1.png)
+![Options](images/lfgbuddy2.png)
+![Whispers](images/lfgbuddy3.png)
+
 ## Installation
 
 1. Download the `LFGBuddy` folder.
