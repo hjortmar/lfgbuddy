@@ -1,18 +1,25 @@
 # LFGBuddy
 
-LFGBuddy addon is designed to help you find buddies for dungeon groups efficiently.
+LFGBuddy addon is designed to help you find buddies for dungeon groups efficiently with a somewhat automated whisper queue.
 
-## Features
+## Usage
 
-**Easily find players for your dungeons by contacting people with an somewhat automated whisper queue.**
 1. Choose your filter by class and level range.
 2. Click "Refresh" to create the whisper queue.
 3. Click "Whisper who?" to see to who the addon intends to send your message to.
 4. Click "Send" to start whispering everyone in the queue, pause and reset the queue if needed.
 
+## Features
 **Whisper queue** 
 Players in instances, on your ignore list and optionally in pvp zones will not be put into the queue.
 
+
+## ✨ Features
+
+- **Whisper Queue**  
+  Automatically builds a whisper list from the `/who` tab.  
+  - Skips players in ignored zones, PvP zones (optional), or on your ignore list.  
+  - Prevents whispering the same person too frequently.  
 
 **Whisper lockouts** - By default, the addon will only send a message to a player once every 10 minutes.
 **Snaps to Who frame** – LFGBuddy is positioned next to the Who tab for easy access.
