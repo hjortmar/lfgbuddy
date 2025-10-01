@@ -27,7 +27,7 @@ LFGBuddy addon is designed to help you find buddies for dungeon groups efficient
 ## ⚙️ Installation
 
 1. [Download LFGBuddy](https://github.com/hjortmar/lfgbuddy/raw/main/LFGBuddy.zip).
-2. Place it in your `World of Warcraft\Interface\AddOns` directory.
+2. Extract in your `World of Warcraft\Interface\AddOns` directory.
 3. Ensure the folder structure looks like this:
 Interface\AddOns\LFGBuddy\LFGBuddy.toc
 Interface\AddOns\LFGBuddy\Main.lua
