@@ -17,7 +17,7 @@ Players in instances, on your ignore list and optionally in pvp zones will not b
 ## ✨ Features
 
 - **Automate asking buddies if they want to tag along for an instance** 
-   – Automatically builds a whisper list with a class/lvl filter.  
+  - – Automatically builds a whisper list with a class/lvl filter.  
    – Skips players in ignored zones, PvP zones (optional), or on your ignore list.  
    – Keep track of recently sent messages for quick reuse.
    – By default, the addon will only send a message to a player once every 10 minutes to avoid being a nuissance.
