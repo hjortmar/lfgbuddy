@@ -16,7 +16,7 @@ LFGBuddy addon is designed to help you find buddies for dungeon groups efficient
 - **Previous messages** – Keep track of recently sent messages for quick reuse.
 
 - **Screenshots:**  
-![Main](images/lfgbuddymain-window.png)
+![Main](images/lfgbuddy-mainwindow.png)
 ![Options](images/lfgbuddy-who.png)
 ![Whispers](images/lfgbuddy2.png)
 ![Whispers](images/lfgbuddy3.png)
