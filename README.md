@@ -36,7 +36,7 @@ Interface\AddOns\LFGBuddy\Main.lua
 
 ## 📝 Notes
 
-- LFGBuddy is only tested with a WotLK 3.3.5 (2009) client on **Epoch WoW 3.3.5**.  
+LFGBuddy is only tested with a WotLK 3.3.5 (2009) client on **Epoch WoW 3.3.5**.  
 
 ## 📜 License
 
