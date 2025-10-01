@@ -6,10 +6,11 @@ LFGBuddy addon is designed to help you find buddies for dungeon groups efficient
 
 ## 📖 Usage
 
-1. Choose your filter by class and level range.
-2. Click "Refresh" to create the whisper queue.
-3. Click "Whisper who?" to see to who the addon intends to send your message to.
-4. Click "Send" to start whispering everyone in the queue, pause and reset the queue if needed.
+1. Open the Who tab.
+2. Choose your filter by class and level range.
+3. Click "Refresh" to create the whisper queue.
+4. Click "Whisper who?" to see to who the addon intends to send your message to.
+5. Click "Send" to start whispering everyone in the queue, pause whispers or reset the queue if needed.
 
 ## ✨ Features
 
