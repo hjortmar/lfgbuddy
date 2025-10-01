@@ -2,7 +2,9 @@
 
 LFGBuddy addon is designed to help you find buddies for dungeon groups efficiently with an automated whisper queue using /who or a filter.
 
-## Usage
+[Download LFGBuddy](https://github.com/hjortmar/lfgbuddy/raw/main/LFGBuddy.zip)
+
+## 📖 Usage
 
 1. Choose your filter by class and level range.
 2. Click "Refresh" to create the whisper queue.
@@ -17,13 +19,13 @@ LFGBuddy addon is designed to help you find buddies for dungeon groups efficient
   - By default, the addon will only send a message to a player once every 10 minutes to avoid being a nuissance.
   - Positions itself next to the Who tab for easy access.
 
-**Screenshots:**  
+## 🖼️ Screenshots
 ![Main](images/lfgbuddy-mainwindow.png)
-![Options](images/lfgbuddy-who.png)
-![Whispers](images/lfgbuddy2.png)
+![Who](images/lfgbuddy-who.png)
+![Options](images/lfgbuddy2.png)
 ![Whispers](images/lfgbuddy3.png)
 
-## Installation
+## ⚙️ Installation
 
 1. Download the `LFGBuddy` folder.
 2. Place it in your `World of Warcraft\Interface\AddOns` directory.
@@ -32,11 +34,11 @@ Interface\AddOns\LFGBuddy\LFGBuddy.toc
 Interface\AddOns\LFGBuddy\Main.lua
 4. Launch WoW and enable LFGBuddy on the character selection screen.
 
-## Notes
+## 📝 Notes
 
 - LFGBuddy is only tested with a WotLK 3.3.5 (2009) client on **Epoch WoW 3.3.5**.  
 
-## License
+## 📜 License
 
 This addon is provided as-is. Modify and share freely, but please credit the original author.
 
