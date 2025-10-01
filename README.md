@@ -21,9 +21,8 @@ LFGBuddy addon is designed to help you find buddies for dungeon groups efficient
 
 ## 🖼️ Screenshots
 ![Main](images/lfgbuddy-mainwindow.png)
-![Who](images/lfgbuddy-who.png)
-![Options](images/lfgbuddy2.png)
 ![Whispers](images/lfgbuddy-spam.png)
+![Options](images/lfgbuddy2.png)
 
 ## ⚙️ Installation
 
