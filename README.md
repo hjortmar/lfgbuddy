@@ -16,14 +16,15 @@ Players in instances, on your ignore list and optionally in pvp zones will not b
 
 ## ✨ Features
 
-- **Whisper Queue**  
-  Automatically builds a whisper list from the `/who` tab.  
-  - Skips players in ignored zones, PvP zones (optional), or on your ignore list.  
-  - Prevents whispering the same person too frequently.  
+- **Automate asking buddies if they want to tag along for an instance**
+   – Keep track of recently sent messages for quick reuse.
 
-**Whisper lockouts** - By default, the addon will only send a message to a player once every 10 minutes.
+- **Whisper queue**  
+  Automatically builds a whisper list with a class/lvl filter.  
+  - Skips players in ignored zones, PvP zones (optional), or on your ignore list.  
+  - By default, the addon will only send a message to a player once every 10 minutes to avoid being a nuissance.
+
 **Snaps to Who frame** – LFGBuddy is positioned next to the Who tab for easy access.
-**Previous messages** – Keep track of recently sent messages for quick reuse.
 
 **Screenshots:**  
 ![Main](images/lfgbuddy-mainwindow.png)
