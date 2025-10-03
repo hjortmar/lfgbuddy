@@ -6,7 +6,7 @@ LFGBuddy addon is designed to help you find buddies for dungeon groups efficient
 
 ## ✨ Features and usage
 
-  **Open the Who tab, through the LFGBuddy interface:**
+  **Open the Who tab to see the LFGBuddy interface**
   
 1. Choose your filter by class and level range.
    
