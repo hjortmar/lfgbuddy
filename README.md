@@ -20,14 +20,12 @@ LFGBuddy addon is designed to help you find buddies for dungeon groups efficient
    - Once you have sent a message, it will be saved for quick reuse.
 <br><br>
 5. Click "Send" to start sending messages to all players that were captured into the whisper queue.
+   - By default, the addon is only able to send a message to a player once every 10 minutes to avoid being a nuissance.
    - Click "Pause" if you want the addon to stop sending messages.
    - Click "Reset" if you want the stop and clear the whisper queue.
-   - By default, the addon is only able to send a message to a player once every 10 minutes to avoid being a nuissance.
 
 ## 🖼️ Screenshots
-![Main](images/lfgbuddy-mainwindow.png)
-![Whispers](images/lfgbuddy-spam.png)
-![Options](images/lfgbuddy2.png)
+![Main](images/lfgbuddimg1.png)
 
 ## ⚙️ Installation
 
