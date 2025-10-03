@@ -9,10 +9,9 @@ LFGBuddy addon is designed to help you find buddies for dungeon groups efficient
   **Open the Who tab to see the LFGBuddy interface**
   
 1. Choose your filter by class and level range.
-
    
 2. Click "Refresh", this will send a /who command based on your filter and capture the result to a whisper queue.
-   - *If you write your own /who command, the whisper queue will then be built from that result as long as LLFGBuddy is visible.*
+   - ###### If you write your own /who command, the whisper queue will then be built from that result as long as LLFGBuddy is visible.*
    - *The whisper queue will not capture players in instances, on your ignore list and battlegrounds (optional). * 
 
 3. *(Optional)* Click "Whisper who?" to see to who the addon intends to send your message to.
