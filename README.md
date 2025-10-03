@@ -18,7 +18,7 @@ LFGBuddy addon is designed to help you find buddies for dungeon groups efficient
 <br><br><br>
 4. Write a poem in the messagebox, this is the message that the addon will send to players when you click "Send".
    - Once you have sent a message, it will be saved for quick reuse.
-<br><br><br>
+<br><br>
 5. Click "Send" to start sending messages to all players that were captured into the whisper queue.
    - Click "Pause" if you want the addon to stop sending messages.
    - Click "Reset" if you want the stop and clear the whisper queue.
