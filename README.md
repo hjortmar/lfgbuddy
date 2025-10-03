@@ -4,29 +4,25 @@ LFGBuddy addon is designed to help you find buddies for dungeon groups efficient
 
 [Download LFGBuddy](https://github.com/hjortmar/lfgbuddy/raw/main/LFGBuddy.zip)
 
-## 📖 Usage
+## ✨ Features and usage
 
-1. Open the Who tab.
-
-  **From the LFGBuddy interface:**
+  **Open the Who tab, through the LFGBuddy interface:**
   
-2. Choose your filter by class and level range.
+1. Choose your filter by class and level range.
    
-3. Click "Refresh" to send a /who
-   - This creates a whisper queue based on the result from the /who.
+2. Click "Refresh", this will send a /who command based on your filter and capture the result to a whisper queue.
    - If you write your own /who command, the whisper queue will then be built from that result as long as LLFGBuddy is visible.
+   - The whisper queue will not capture players in instances, on your ignore list and battlegrounds (optional).  
    
-4. (Optional) Click "Whisper who?" to see to who the addon intends to send your message to.
+3. (Optional) Click "Whisper who?" to see to who the addon intends to send your message to.
+
+4. Write a poem in the messagebox, this is the message that the addon will send to players when you click "Send".
+   - Once you have sent a message, it will be saved for quick reuse.
    
-5. Click "Send" to start whispering everyone in the queue, pause whispers or reset the queue if needed.
-
-## ✨ Features
-
-  - Builds a whisper list through a class/lvl filter.  
-  - Skips players in instances, on your ignore list and battlegrounds (optional).  
-  - Keep track of recently sent messages for quick reuse.
-  - By default, the addon will only send a message to a player once every 10 minutes to avoid being a nuissance.
-  - Positions itself next to the Who tab for easy access.
+5. Click "Send" to start sending messages to all players that were captured into the whisper queue.
+   - Click "Pause" if you want the addon to stop sending messages.
+   - Click "Reset" if you want the stop and clear the whisper queue.
+   - By default, the addon is only able to send a message to a player once every 10 minutes to avoid being a nuissance.
 
 ## 🖼️ Screenshots
 ![Main](images/lfgbuddy-mainwindow.png)
