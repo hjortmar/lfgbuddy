@@ -13,7 +13,6 @@ LFGBuddy addon is designed to help you find buddies for dungeon groups efficient
 2. Write a poem in the messagebox, this is the message that the addon will send to players when you click "Send".
    - Once you have sent a message, it will be saved for quick reuse.
 <br><br>
-<br><br>
 3. Click "Refresh", this will send a /who command based on your filter and capture the result to a whisper queue.
    - If you write your own /who command, the whisper queue will then be built from that result as long as LFGBuddy is visible.
    - The whisper queue will not capture players in instances, on your ignore list and battlegrounds (optional). 
