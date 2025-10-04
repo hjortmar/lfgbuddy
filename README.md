@@ -8,7 +8,7 @@ Tired of copy/pasting the same message to 15 people from a /who command to find 
 
 ## ✨ Features and usage
 
-  **Open the Who tab to see the LFGBuddy interface**
+  **You will find LFG Buddy when you open the Who tab**
   
 1. Choose your filter by class and level range.
 <br><br>
