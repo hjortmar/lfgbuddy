@@ -1,6 +1,6 @@
 # LFGBuddy
 
-Tired of copy/pasting the same message to 15 people from a /who command? Me too! <br><br>
+Tired of copy/pasting the same message to 15 people from a /who command? Me too! <br>
 
 LFG Buddy is designed to do it for you.
 
