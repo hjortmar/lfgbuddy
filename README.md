@@ -1,6 +1,8 @@
 # LFGBuddy
 
-LFGBuddy addon is designed to help you find buddies for dungeon groups efficiently with an automated whisper queue using /who or a filter.
+Tired of copy/pasting the same message to 15 people from a /who command? Me too! <br><br>
+
+LFG Buddy is designed to do it for you.
 
 [Download LFGBuddy](https://github.com/hjortmar/lfgbuddy/raw/main/LFGBuddy.zip)
 
