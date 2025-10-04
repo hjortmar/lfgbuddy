@@ -1,8 +1,8 @@
 # LFGBuddy
 
-Tired of copy/pasting the same message to 15 people from a /who command? Me too! <br>
+Tired of copy/pasting the same message to 15 people from a /who command to find dungeon buddies? ME TOO! <br>
 
-LFG Buddy is designed to do it for you.
+**LFG Buddy** is designed to do that task for you.
 
 [Download LFGBuddy](https://github.com/hjortmar/lfgbuddy/raw/main/LFGBuddy.zip)
 
