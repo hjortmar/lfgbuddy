@@ -34,8 +34,8 @@ Updated the UI a tiny bit, couldn't be bothered to take a new screenshot.. some 
 
 1. [Download LFGBuddy](https://github.com/hjortmar/lfgbuddy/raw/main/LFGBuddy.zip).
 2. Extract in your `World of Warcraft\Interface\AddOns` directory.
-3. Ensure the folder structure looks like this:
-Interface\AddOns\LFGBuddy\LFGBuddy.toc
+3. Ensure the folder structure looks like this:<br>
+Interface\AddOns\LFGBuddy\LFGBuddy.toc<br>
 Interface\AddOns\LFGBuddy\Main.lua
 4. Launch WoW and enable LFGBuddy on the character selection screen.
 
