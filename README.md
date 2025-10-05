@@ -28,7 +28,7 @@ Tired of copy/pasting the same message to 15 people from a /who command to find 
 ## 🖼️ Screenshots
 ![Main](images/lfgbuddimg3.png)
 
-Updated the UI a tiny bit, couldn't be bothered to take a new screenshot.. some copy/paste action going on. :P
+Updated the UI a tiny bit, couldn't be bothered to take a new screenshot.. some paint action going on. :P
 
 ## ⚙️ Installation
 
