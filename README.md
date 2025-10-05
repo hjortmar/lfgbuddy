@@ -26,7 +26,7 @@ Tired of copy/pasting the same message to 15 people from a /who command to find 
    - Click "Reset" if you want the stop and clear the whisper queue.
 
 ## 🖼️ Screenshots
-![Main](images/lfgbuddimg2.png)
+![Main](images/lfgbuddimg3.png)
 
 Updated the UI a tiny bit, couldn't be bothered to take a new screenshot.. some copy/paste action going on. :P
 
