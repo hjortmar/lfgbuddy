@@ -25,7 +25,6 @@ Tired of copy/pasting the same message to 15 people from a /who command to find 
      - Clicking "Wihpser who?" will also show a reason explaining why a player was not captured into the whisper queue.
    - By default, the addon is only able to send a message to a player once every 10 minutes to avoid being a nuissance.
    - Click "Pause" if you want the addon to stop sending messages.
-   - Click "Reset" if you want the stop and clear the whisper queue.
 
 ## 🖼️ Screenshots
 ![Main](images/lfgbuddimg3.png)
