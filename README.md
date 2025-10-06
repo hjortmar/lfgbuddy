@@ -23,7 +23,7 @@ Tired of copy/pasting the same message to 15 people from a /who command to find 
 4. Click "Send" to start sending messages to all players that were captured into the whisper queue.
    - Click "Whisper who?" to see to who the addon intends to send your message to.
      - Clicking "Wihpser who?" will also show a reason explaining why a player was not captured into the whisper queue.
-   - By default, the addon is only able to send a message to a player once every 10 minutes to avoid being a nuissance.
+   - By default, the addon limits you to one message to the same player on a 10 minute timeout.
    - Click "Pause" if you want the addon to stop sending messages.
 
 ## 🖼️ Screenshots
