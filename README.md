@@ -17,7 +17,7 @@ Tired of copy/pasting the same message to 15 people from a /who command to find 
    - You can select roles (Tank, Healer, DPS) from the class dropdown to /who several classes in one sweep.
 <br><br>
 3. Click "Find players", this will send a /who command based on your filter and capture the result to a whisper queue.
-   - If you write your own /who command, the whisper queue will then be built from that result as long as LFGBuddy is visible.
+   - If you write your own /who command, the whisper queue will then be built from that result.
    - The whisper queue will not capture players in instances, on your ignore list and battlegrounds (optional). 
 <br><br>
 4. Click "Send" to start sending messages to all players that were captured into the whisper queue.
