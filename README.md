@@ -18,7 +18,7 @@ Tired of copy/pasting the same message to 15 people from a /who command to find 
 <br><br>
 3. Click "Find players", this will send a /who command based on your filter and capture the result to a whisper queue.
    - If you write your own /who command, the whisper queue will then be built from that result.
-   - The whisper queue will not capture players in instances, on your ignore list and battlegrounds (optional). 
+   - The whisper queue will not capture players in instances, on your ignore list or in battlegrounds (optional). 
 <br><br>
 4. Click "Send" to start sending messages to all players that were captured into the whisper queue.
    - Click "Whisper who?" to see to who the addon intends to send your message to.
