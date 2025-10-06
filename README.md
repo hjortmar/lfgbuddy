@@ -14,8 +14,9 @@ Tired of copy/pasting the same message to 15 people from a /who command to find 
 <br><br>
 2. Write a poem in the messagebox, this is the message that the addon will send to players when you click "Send".
    - Once you have sent a message, it will be saved for quick reuse.
+   - You can select roles (Tank, Healer, DPS) from the dropdown to /who several classes in one sweep.
 <br><br>
-3. Click "Refresh", this will send a /who command based on your filter and capture the result to a whisper queue.
+3. Click "Find players", this will send a /who command based on your filter and capture the result to a whisper queue.
    - If you write your own /who command, the whisper queue will then be built from that result as long as LFGBuddy is visible.
    - The whisper queue will not capture players in instances, on your ignore list and battlegrounds (optional). 
 <br><br>
