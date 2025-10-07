@@ -4,7 +4,7 @@ Tired of copy/pasting the same message to 15 people from a /who command to find 
 
 **LFG Buddy** is designed to do that task for you.
 
-[Download LFGBuddy](https://github.com/hjortmar/lfgbuddy/raw/main/LFGBuddy.zip)
+<b>[Download LFGBuddy](https://github.com/hjortmar/lfgbuddy/raw/main/LFGBuddy.zip)</b>
 
 ## ✨ Features and usage
 
