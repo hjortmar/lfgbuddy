@@ -6,6 +6,8 @@ Tired of copy/pasting the same message to 15 people from a /who command to find 
 
 <b>[Download LFGBuddy](https://github.com/hjortmar/lfgbuddy/raw/main/LFGBuddy.zip)</b>
 
+Note: Due to how /who works, there is some limitations to how well using the role feature works.
+
 ## ✨ Features and usage
 
   **You will find LFG Buddy when you open the Who tab**
