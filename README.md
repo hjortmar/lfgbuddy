@@ -6,7 +6,7 @@ Tired of writing /who commands or copy/pasting the same message to 15 people to 
 
 The addon adds an easy-to-use filter to find players using /who commands and offers sending a message to all players in the result that are not already in instances, on your ignore list or in battlegrounds (optional).
 
-<p><font size="1"><a href="https://github.com/hjortmar/lfgbuddy/raw/main/LFGBuddy.zip">Download LFGBuddy</a></font></p>
+<b><a href="https://github.com/hjortmar/lfgbuddy/raw/main/LFGBuddy.zip">Download LFGBuddy</a></b>
 
 ## ✨ Features and usage
 
